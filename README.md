@@ -11,3 +11,6 @@ In Markdown heb je b.v. een *blockquote* dat in de letterlijke zin v.h. woord be
  
 Mijn leerkracht zegt wel eens: 
 > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes
+
+## visuel studio code
+visuel studio is toch **echt** wel ene editor met veel gay
