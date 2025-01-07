@@ -14,3 +14,4 @@ Mijn leerkracht zegt wel eens:
 
 ## visuel studio code
 visuel studio is toch **echt** wel ene editor met veel gay
+hallo
